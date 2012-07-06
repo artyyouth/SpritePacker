@@ -11,19 +11,19 @@ Given a list of image sizes in stdin in the following format:
 
 You should produce on stdout like the following. Each image line is the dimensions of the image, and then the X and Y coordinate of where it should be placed in the spritesheet:
 
-sheet 1
-864x480 0 0
-410x321 0 480
-315x274 410 480
-188x167 725 480
-229x163 0 801
-543x155 229 801
-78x107 913 0
-193x56 725 647
-39x32 913 107
+    sheet 1
+    864x480 0 0
+    410x321 0 480
+    315x274 410 480
+    188x167 725 480
+    229x163 0 801
+    543x155 229 801
+    78x107 913 0
+    193x56 725 647
+    39x32 913 107
 
-sheet 2
-629x236 0 0
+    sheet 2
+    629x236 0 0
 
 ## The solution
 
